@@ -1,0 +1,146 @@
+<html><head><script id="facebook-jssdk" src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script>
+
+        <title>ROBLOX</title>
+        
+<link rel="stylesheet" href="/CSS/YUIReset.css">
+
+        
+<link rel="stylesheet" href="/CSS/Base/CSS/Roblox.css">
+
+        
+<link rel="stylesheet" href="/CSS/Pages/Landing/Animated.css">
+
+	<script type="text/javascript">
+
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-11419793-1']);
+		_gaq.push(['_setCampSourceKey', 'rbx_source']);
+		_gaq.push(['_setCampMediumKey', 'rbx_medium']);
+		_gaq.push(['_setCampContentKey', 'rbx_campaign']);
+		_gaq.push(['_setDomainName', 'robloenite.ga']);
+
+		_gaq.push(['b._setAccount', 'UA-486632-1']);
+		_gaq.push(['b._setCampSourceKey', 'rbx_source']);
+		_gaq.push(['b._setCampMediumKey', 'rbx_medium']);
+		_gaq.push(['b._setCampContentKey', 'rbx_campaign']);
+		_gaq.push(['b._setDomainName', 'robloenite.ga']);
+		_gaq.push(['c._setAccount', 'UA-26810151-2']);
+		_gaq.push(['c._setDomainName', 'robloenite.ga']);
+
+		(function() {
+			var ga = document.createElement('script');
+			ga.type = 'text/javascript';
+			ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(ga, s);
+		})();
+
+	</script>
+
+        <script src="https://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            _uacct = "UA-486632-1";
+            _udn = "robloenite.ga";
+            _uccn = "rbx_campaign";
+            _ucmd = "rbx_medium";
+            _ucsr = "rbx_source";
+            urchinTracker();
+            __utmSetVar('Visitor/Anonymous');
+        </script>
+        <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.2.min.js"></script>
+<script type="text/javascript">window.jQuery || document.write("<script type='text/javascript' src='/js/jquery/jquery-1.7.2.min.js'><\/script>")</script>
+<script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/4.0/1/MicrosoftAjax.js"></script>
+<script type="text/javascript">window.Sys || document.write("<script type='text/javascript' src='/js/Microsoft/MicrosoftAjax.js'><\/script>")</script>
+
+        
+<script type="text/javascript" src="http://js.rbxcdn.com/8dde1adf3bcacc6e33c637fcc6e0677f.js"></script>
+
+            <script type="text/javascript">
+        $(function () {
+            RobloxEventManager.triggerEvent('rbx_evt_newuser', {});
+        });
+    </script>
+
+        <link rel="icon" type="image/vnd.microsoft.icon" href="/images/favicon.ico">
+        <link rel="stylesheet" type="text/css" href="/web/20131231133229cs_/http://www.roblox.com/CSS/PartialViews/Navigation.css">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,requiresActiveX=true">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="author" content="ROBLOX Corporation">
+        <meta name="description" content="User-generated MMO gaming site for kids, teens, and adults. Players architect their own worlds. Builders create free online games that simulate the real world. Create and play amazing 3D games. An online gaming cloud and distributed physics engine.">
+        <meta name="keywords" content="free games, online games, building games, virtual worlds, free mmo, gaming cloud, physics engine">
+        <meta name="robots" content="all">
+        
+          <div style="clear:both"></div>
+            <div id="Body" style="width:970px">
+                <script type="text/javascript">
+    Roblox = Roblox || {};
+
+    Roblox.Resources = Roblox.Resources || {};
+
+    Roblox.Resources.AnimatedSignupFormValidator = {
+        //<sl:translate>
+        doesntMatch: "Doesn't match",
+        requiredField: "Required",
+        tooLong: "Too long",
+        tooShort: "Too short",
+        maxValid: "Too many accounts use this email",
+        needsFourLetters: "Needs 4 letters",
+        needsTwoNumbers: "Needs 2 numbers",
+        noSpaces: "No spaces allowed",
+        weakKey: "Weak key combination.",
+        invalidName: "Can't be your character name",
+        alreadyTaken: "Already taken",
+        cantBeUsed: "Can't be used",
+        invalidBirthday: "Invalid birthday",
+        loginFieldsRequired: "Username and Password are required.",
+        loginFieldsIncorrect: "Your username or password is incorrect."
+        //</sl:translate>
+    };
+</script>
+<style type="text/css">
+    body {
+        background: url("https://images.rbxcdn.com/437004fbc01bf6a613547a40aabde10a.jpg") repeat-x;
+        padding-top: 35px;
+    }
+    #Container {
+        background: url("https://images.rbxcdn.com/161d0d393d74c103e5f50eef988b7217.png") repeat-x;
+    }
+</style>
+<div id="Experimental" class="ShadowedStandardBox" data-is-animated="False">
+    <div class="Content">
+        <div id="animatedHeader">
+            <div id="headerLogo"><img src="https://images.rbxcdn.com/9b792179d6034ff15284a289ffedec15.png" alt="logo"></div>
+            <div id="headerTextTop">Join millions of builders</div>
+            <div id="headerTextBottom">and explore their creations</div>
+        </div>
+        <div id="animatedBodyWrapper">
+            <div id="animatedBody">
+                    <div class="VideoContainer">
+                        <object class="videoURL">
+                            <param name="movie" value="//www.youtube.com/v/LHdA7Yc-8Rg&amp;amp;amp;hl=en&amp;amp;amp;fs=1&amp;amp;amp;rel=0&amp;amp;amp;color1=0x3a3a3a&amp;amp;amp;color2=0x999999&amp;autoplay=1">
+                            <param name="allowFullScreen" value="true">
+                            <param name="allowscriptaccess" value="always">
+                            <param name="wmode" value="transparent">
+                            <embed wmode="transparent" src="https://www.youtube.com/v/LHdA7Yc-8Rg&amp;amp;amp;hl=en&amp;amp;amp;fs=1&amp;amp;amp;rel=0&amp;amp;amp;color1=0x3a3a3a&amp;amp;amp;color2=0x999999&amp;autoplay=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" allownetworking="internal" width="380" height="250">
+                        </object>
+                        <div class="slogan-container">
+                            <div id="slogan">What will you build?</div>
+                        </div>
+                    </div>
+                <div id="animated-wrapper" data-first-visit="False">
+                    <div class="sign-up-row">
+                        <div class="sign-up-inner-row">
+                            <span id="animated-tab-signup" class="animated-tab">Sign up</span>
+                            <span class="animated-tab">|</span>
+                            <span id="animated-tab-login" class="animated-tab animated-tab-selected">Login</span>
+                        </div>
+                    </div>
+                    <div id="animated-login" style="">
+                        <form method="post" id="login-form" action="/newlogin">
+                            <div class="sign-up-row">
+                                <div class="sign-up-inner-row">
+                                    <span id="login-error" class="required-text error" style="display: none;"></span>
+                                </div>
+                            </div>
+        
